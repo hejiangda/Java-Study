@@ -14,6 +14,6 @@ public class App13_8{
             }
         });
         System.out.print("\n使用Lambda表达式遍历输出：");
-        al.forEach((s)->System.out.print(s));
+        al.forEach(s->System.out.print(s));
     }
 }
