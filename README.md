@@ -11,4 +11,4 @@
 
 **JavaBasic** 文件夹中放的是学《Java程序设计基础（第6版）》时写的练习代码，这本书讲的是Java的基本语法，它后面几章有些过时了，前面的基础部分讲得很清楚。
 
-**JavaProjects** 文件夹中放的是学《Java Project - Second Edition》这本书时写的练习代码。
+**CoreJavaVolume1** 文件夹中放的是学《Core Java Volume I》这本书时写的练习代码。
